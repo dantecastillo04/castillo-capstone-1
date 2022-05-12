@@ -7,10 +7,31 @@
 
 
 body {
-	font-family:'Source Sans Pro', sans-serif;;
-	background: linear-gradient(#58cb00, #589d00);
-	min-height: 100vh;
+	font-family:'Source Sans Pro', sans-serif;
+	text-decoration: none;
+
 }
 
+a {
+	text-decoration: none;
+}
 
+.footer {
+	background-color: #C46F1A;
+}
 
+.btn {
+            background: rgb(1, 1, 1);
+            color: white;
+            border-radius: 30px;
+            border: none;
+            padding: 10px;
+}
+
+#about {
+	background: #C46F1A;
+} 
+
+.stay-connected {
+	height: 10%;
+} 
