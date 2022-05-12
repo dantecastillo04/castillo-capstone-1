@@ -1,0 +1,16 @@
+/*CSS Reset*/
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+body {
+	font-family:'Source Sans Pro', sans-serif;;
+	background: linear-gradient(#58cb00, #589d00);
+	min-height: 100vh;
+}
+
+
+
